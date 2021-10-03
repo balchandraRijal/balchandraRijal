@@ -18,8 +18,3 @@ I'm a BIT third year student at Informatics College Pokhara Pokhara-5, Parsyang.
 - [Facebook](https://www.facebook.com/raajaa.rijal)
 - [Twitter](https://twitter.com/RReezaal)
 - [Instagram](https://www.instagram.com/raajaa.reezaal)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
